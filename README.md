@@ -1,4 +1,4 @@
-# 📊 COVID-19 Clinical Trials Dashboard
+# 📊 COVID-19 Clinical Trials Analysis
 
 An **interactive dashboard** built with **Streamlit** to explore COVID-19 clinical trials worldwide using open data from ClinicalTrials.gov.
 
